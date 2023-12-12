@@ -1,7 +1,7 @@
 <template>
   <div id="app" ref="app">
     <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to 黄金坤疤哥"/>
+    <HelloWorld msg="Welcome to 黄金帅"/>
     <HelloWorld msg="Welcome to Your Vue.js App"/>
     <HelloWorld msg="Welcome to 张瑞1 Vue.js App"/>
     <HelloWorld msg="Welcome to 张瑞2 Vue.js App"/>
@@ -17,12 +17,6 @@ export default {
   components: {
     HelloWorld
   },
-  mounted(){
-    let num = 0;
-    setInterval(()=>{
-      this.$refs.app.innerHTML  = ++num
-    },1000)
-  }
 }
 </script>
 
