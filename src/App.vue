@@ -18,10 +18,10 @@ export default {
     HelloWorld
   },
   mounted(){
-    // let num = 0;
-    // setInterval(()=>{
-    //   this.$refs.app.innerHTML  = ++num
-    // },1000)
+    let num = 0;
+    setInterval(()=>{
+      this.$refs.app.innerHTML  = "蔡徐坤的ikun"+(++num)
+    },1000)
   }
 }
 </script>
@@ -34,6 +34,6 @@ export default {
   text-align: center;
   color: #2c3e50;
   margin-top: 60px;
-  background-color: red;
+  /* background-color: red; */
 }
 </style>
