@@ -19,7 +19,7 @@
       <li><a href="https://twitter.com/vuejs" target="_blank" rel="noopener">金</a></li>
       <li><a href="https://news.vuejs.org" target="_blank" rel="noopener">帅</a></li>
     </ul>
-    <h3>Ecosystem</h3>
+    <h1>黄金帅</h1>
     <ul>
       <li><a href="https://router.vuejs.org" target="_blank" rel="noopener">帅</a></li>
       <li><a href="https://vuex.vuejs.org" target="_blank" rel="noopener">帅</a></li>

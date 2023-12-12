@@ -17,12 +17,6 @@ export default {
   components: {
     HelloWorld
   },
-  mounted(){
-    let num = 0;
-    setInterval(()=>{
-      this.$refs.app.innerHTML  = "蔡徐坤的ikun"+(++num)
-    },1000)
-  }
 }
 </script>
 
