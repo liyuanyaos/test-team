@@ -4,6 +4,7 @@
     <HelloWorld msg="Welcome to 黄金坤疤哥"/>
     <HelloWorld msg="Welcome to Your Vue.js App"/>
     <HelloWorld msg="Welcome to 张瑞1 Vue.js App"/>
+    <HelloWorld msg="Welcome to 张瑞2 Vue.js App"/>
   </div>
 </template>
 
